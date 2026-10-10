@@ -1,5 +1,5 @@
 
-class Solution {
+class minsum {
     public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
         int n = nums1.length;
         long[] diff = new long[n];
